@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1088216521875",
+    "project_id": "e-pharmacy-42b9a",
+    "storage_bucket": "e-pharmacy-42b9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088216521875:android:cf0eb9e01bd7fee7db0166",
+        "android_client_info": {
+          "package_name": "com.example.e_pharm_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088216521875-lieuo3gvenl3uo2qh62i4voa250o04m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5vsy-w3m7ZXoOj_RNo-53fM8TC3hh7M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088216521875-lieuo3gvenl3uo2qh62i4voa250o04m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088216521875:android:8c6fc3d4d0b1ce55db0166",
+        "android_client_info": {
+          "package_name": "com.example.e_pharm_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088216521875-lieuo3gvenl3uo2qh62i4voa250o04m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5vsy-w3m7ZXoOj_RNo-53fM8TC3hh7M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088216521875-lieuo3gvenl3uo2qh62i4voa250o04m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
