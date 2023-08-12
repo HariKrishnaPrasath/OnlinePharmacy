@@ -1,4 +1,4 @@
-# e_pharm_ui
+# Online Pharmacy Mobile Application
 
 A new Flutter project.
 
